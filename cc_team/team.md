@@ -1,22 +1,17 @@
 ## Team Leader:
 
-Name: Satinderpal Singh
+Name: 
+email: 
+CRN: 
 
-email: satinder@gndec.ac.in
-
-CRN: 95057
-
-Area of Interest: System Administration
-
+Area of Interest: 
 Link of Github repo: https://github.com/Kotmajlas
 
 ## Mentor
 
-Name: Pf. Jasbir Saini
-
-Designation : System Analyst
-
-Institute: GNDEC
+Name: 
+Designation : 
+Institute: 
 
 Git repo: https://github.com/saini
 
